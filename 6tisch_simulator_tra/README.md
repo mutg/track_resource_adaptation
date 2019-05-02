@@ -1,3 +1,6 @@
+# Modified 6TiSCH Simulator 
+Modifications in order to enable simulation of scenarios related to Track Resource Adaptation. This version was used in Scenario 1 and 2 in order to evaluate TRA in a network with two levels of overprovisioning.
+
 # The 6TiSCH Simulator
 
 Branch    | Build Status
