@@ -1,3 +1,8 @@
+# Modified 6TiSCH Simulator 
+Modifications in order to enable simulation of scenarios related to Track Resource Adaptation. This version is used to simulate scenario 3 with critical and best efffort data.
+
+
+
 # The 6TiSCH Simulator
 
 Branch    | Build Status
